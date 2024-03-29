@@ -7,6 +7,7 @@
 _Would you like to meet me?_
 
 :star: **[LinkedIn](https://www.linkedin.com/in/gabrielsuarez19)**
+
 :star: If you want to contact me, write to **gasuarez2002@gmail.com**
 
 
