@@ -6,21 +6,13 @@
 
 _Would you like to meet me?_
 
-:star: **[Instagram](https://www.instagram.com/gabriels_2002/)**
+:star: **[LinkedIn](https://www.linkedin.com/in/gabrielsuarez19
+:star: If you want to contact me, write to **gasuarez2002@gmail.com**
 
 
+I am a Software Engineer with 2 years of experience in application development and architecture, I have led task automation through applications developed in React, Node.js, Spring, PostgreSQL and MongoDB. My focus is on creating robust and reliable systems, while implementing CI/CD practices to ensure code integrity and automated deployments.
 
-- I’m a a systems engineering student
-
-- I’m studying at ICESI University
-
-- I’m a good teammate
-
-- I love to learn new things for my personal growth
-
-- If you want to contact me, write to **gasuarez2002@gmail.com**
-
-
+This is my space to practice and improve my technical skills, have fun.
 
 ### :zap: Github Stats
 
